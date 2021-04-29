@@ -1,6 +1,6 @@
 # NarikLayoutSample
 
-Sample For NarikLayout
+A barebones sample for NarikLayout
 
 You can read more [here](https://docs.narik.me/04.-ui-layout)
 
